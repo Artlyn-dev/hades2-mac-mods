@@ -1,0 +1,9 @@
+.DS_Store
+vanilla-backup/
+*.lua.bak
+__pycache__/
+*.py[cod]
+.venv/
+launcher/.build/
+launcher/.swiftpm/
+launcher/Hades2Mods.app/
